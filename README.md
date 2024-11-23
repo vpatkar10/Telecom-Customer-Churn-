@@ -3,11 +3,11 @@ Telecom Customer Churn :
 
 https://app.powerbi.com/view?r=eyJrIjoiMmUwMDU0NDctYWRjNi00MGFlLTg2OGUtMjI2Zjc4NGFlODE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-Situation
+**Situation**
 
 The telecom operator was experiencing a high customer churn rate, negatively impacting revenue and customer lifetime value. Leadership sought data-driven insights to identify the root causes of churn, understand customer behavior, and create targeted retention strategies.
 
-Task
+**Task**
 
 Develop a comprehensive Power BI dashboard to:
 
@@ -16,7 +16,7 @@ Segment customers based on demographics, behavior, and usage patterns.
 Provide actionable insights on customer retention and revenue recovery.
 Deliver visualizations suitable for executive and operational decision-making.
 
-Action
+**Action**
 
 Data Collection and Preparation:
 
@@ -43,7 +43,7 @@ Visualizations:
 Used clustered column charts, scatter plots to highlight churn drivers.
 Designed slicers for dynamic filtering by state, contract type, and service adoption.
 
-Result
+**Result**
 
 
 Identified top churn reasons, including month-to-month contracts and dissatisfaction with internet services.
